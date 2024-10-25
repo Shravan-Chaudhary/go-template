@@ -5,4 +5,4 @@
 # 'dev:' defines a target that can be executed with 'make dev'
 # The line below the target (indented with a tab) is the command to execute
 dev:
-	cd cmd/server && air -- -config=../../configs/development.yaml
+	cd cmd/server && air -- -config=../../configs/config.yaml
